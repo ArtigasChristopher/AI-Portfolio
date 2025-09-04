@@ -49,10 +49,10 @@ Savy takes another path: **conversational AI** that adapts to the learner’s st
 ## 🎥 Demo
 
 <p align="center">
-  <img src="./assets/CloudEcho.jpg" width="400"/>
-  <img src="./assets/LocalEcho.jpg" width="400"/>
-  <img src="./assets/NoCorrection.jpg" width="400"/>
-  <img src="./assets/Correction.jpg" width="400"/>
+  <img src="./assets/CloudEcho.jpg" width="300" height="500"/>
+  <img src="./assets/LocalEcho.jpg" width="300" height="500"/>
+  <img src="./assets/NoCorrection.jpg" width="300" height="500"/>
+  <img src="./assets/Correction.jpg" width="300" height="500"/>
 </p>
 
 ---
