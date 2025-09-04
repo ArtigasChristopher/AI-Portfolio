@@ -57,9 +57,12 @@ Biomedical research produces vast amounts of scattered data. GenoTextLinker cons
 ---
 
 ## 🎥 Demo
-![Single Gene](./assets/gene_disease_graph.png)
-![Multi Gene](./assets/multi_gene_disease_graph.png)
-![Validation Metrics](./assets/validation_metrics_summary.png)
+
+<p align="center">
+  <img src="./assets/gene_disease_graph.png" width="400"/>
+  <img src="./assets/multi_gene_disease_graph.png" width="400"/>
+  <img src="./assets/validation_metrics_summary.png" width="400"/>
+</p>
 
 ---
 

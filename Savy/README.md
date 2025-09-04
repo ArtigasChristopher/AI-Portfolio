@@ -47,11 +47,13 @@ Savy takes another path: **conversational AI** that adapts to the learner’s st
 ---
 
 ## 🎥 Demo
-![Cloud discussion](./assets/CloudEcho.jpg)
-![Local discussion](./assets/LocalEcho.jpg)
-![No correction example](./assets/NoCorrection.jpg)
-![Correction example](./assets/Correction.jpg)
-![Selection](./assets/Selection.jpg)
+
+<p align="center">
+  <img src="./assets/CloudEcho.jpg" width="400"/>
+  <img src="./assets/LocalEcho.jpg" width="400"/>
+  <img src="./assets/NoCorrection.jpg" width="400"/>
+  <img src="./assets/Correction.jpg" width="400"/>
+</p>
 
 ---
 
