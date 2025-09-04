@@ -1,0 +1,5 @@
+title: "Christopher Artigas – AI Portfolio"
+description: "Applied AI Projects: Savy, DreamLens, GenoTextLinker"
+theme: jekyll-theme-cayman
+include:
+  - assets/css
